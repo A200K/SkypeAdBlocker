@@ -1,3 +1,6 @@
+I'll just archive this, the current Skype version for Windows that doesn't seem to have any ads.
+
+
 # SkypeAdBlocker
 
 This is a simple ad blocker for Skype.
